@@ -1,0 +1,9 @@
+{
+  "name": "md-ripple",
+  "version": "0.1.0",
+  "main": "./index.js",
+  "files": [
+    "index.js"
+  ],
+  "license": "MIT"
+}
