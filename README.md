@@ -11,8 +11,8 @@
 
 <script type="text/javascript">
   const ripple = require('md-ripple');
-  const button = document.getElementById('button');
-
+  
+  let button = document.getElementById('button');
   button.addEventListener('mousedown', ripple);
 </script>
 ```
